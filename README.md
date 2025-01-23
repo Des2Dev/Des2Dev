@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Des2Dev
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frontend Development
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Fullstack Development
 - 📫 You can see my learning on [Frontend Mentor](https://www.frontendmentor.io/profile/Des2Dev)
